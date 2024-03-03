@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Ling Lo' Profile"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ### About Me
 I am a fourth-year Ph.D. student at National Yang Ming Chiao Tung University, Taiwan, under the guidance of Prof. Wen-Huang Cheng and Prof. Hong-Han Shuai. Earlier, I received my B.S. degree from Deparment of Electronics, National Chiao Tung University, Taiwan. 
 My research lies at the intersection of computer vision and machine learning, with a current focus on image immunization. In the earlier stages of my academic career, I delved into affective computing, specializing in facial and micro-expression recognition.
