@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ling Lo Profile"
+title: "Ling Lo"
 author_profile: true
 redirect_from: 
   - /about/
