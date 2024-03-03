@@ -13,4 +13,3 @@ Currently, I'm broadening my research horizons as a visitor at the [Vision and L
 
 [Ling Lo's CV](../CV_2.pdf)
 
-[Email](linglo.ee08@nycu.edu.tw)
