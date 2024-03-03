@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Ling Lo"
-excerpt: "Ling Lo"
+excerpt: "About me"
 author profile: true
 redirect_from: 
   - /about/
