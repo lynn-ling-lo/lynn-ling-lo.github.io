@@ -11,5 +11,5 @@ I am a fourth-year Ph.D. student at National Yang Ming Chiao Tung University, Ta
 My research lies at the intersection of computer vision and machine learning. In the earlier stages of my academic career, I delved into affective computing, specializing in facial and micro-expression recognition.
 Currently, I'm broadening my research horizons as a visitor at the [Vision and Learning Lab](http://vllab.ucmerced.edu/) at the University of California, Merced, under the supervision of [Prof. Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). 
 
-[Ling Lo's CV](../CV_2.pdf)
+[Ling Lo's CV](../CV_2024.pdf)
 
