@@ -5,19 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Selected Publications
 
-## 2025
-
-### From Prompt to Progression: Taming Video Diffusion Models for Seamless Attribute Transition
-![Paper Thumbnail](paper-thumbnail-1.jpg)
-
-**Ling Lo**, Kelvin C.K. Chan, Wen-Huang Cheng, Ming-Hsuan Yang 
-*ICCV 2025*
-
-[Paper](https://arxiv.org/abs/2509.19690) | [Code](https://github.com/lynn-ling-lo/Prompt2Progression)
-
----
 
 
 
