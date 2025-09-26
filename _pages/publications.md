@@ -53,7 +53,7 @@ author_profile: true
     <img src="paper-thumbnail-3.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px;">Distraction is All You Need: Memory-Efficient Image Immunization against Diffusion-based Image Editing 🌟 <strong>Highlight</strong></h3>
+    <h3 style="margin-top: 0; margin-bottom: 8px;">Distraction is All You Need: Memory-Efficient Image Immunization against Diffusion-based Image Editing  🌟<strong>Highlight</strong></h3>
     <div style="margin-bottom: 6px;"><strong>Ling Lo</strong>, ChengYu Yao, Hong-Han Shaui, Wen-Huang Cheng</div>
     <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>CVPR2024</em></div>
     <div><a href="[link-to-pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Lo_Distraction_is_All_You_Need_Memory-Efficient_Image_Immunization_against_Diffusion-Based_CVPR_2024_paper.pdf)">Paper</a> | <a href="https://github.com/lynn-ling-lo/DAYN">Code</a></div>
@@ -113,7 +113,7 @@ author_profile: true
     <h3 style="margin-top: 0; margin-bottom: 8px;">Mimicking the Annotation Process for Recognizing the Micro-Expresion.</h3>
     <div style="margin-bottom: 6px;">Bo-Kai Ruan, <strong>Ling Lo</strong>, Hong-Han Shuai, Wen-Huang Cheng</div>
     <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>ACM MM 2022</em></div>
-    <div><a href="https://dl.acm.org/doi/10.1145/3503161.3548185">Paper</a></div>| <a href="https://github.com/Justin900429/mimicking-annotation-micro-expression-recognition">Code</a></div>
+    <div><a href="https://dl.acm.org/doi/10.1145/3503161.3548185">Paper</a>|<a href="https://github.com/Justin900429/mimicking-annotation-micro-expression-recognition">Code</a></div>
   </div>
 </div>
 ---
@@ -136,7 +136,7 @@ author_profile: true
     <img src="paper-thumbnail-5.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px;">Facial Chirality: Using Self-Face Reflection to Learn Discriminative Features for Facial Expression Recognition 🏆<strong>Best Paper Award</strong></h3>
+    <h3 style="margin-top: 0; margin-bottom: 8px;">Facial Chirality: Using Self-Face Reflection to Learn Discriminative Features for Facial Expression Recognition  🏆<strong>Best Paper Award</strong></h3>
     <div style="margin-bottom: 6px;"><strong>Ling Lo</strong>, Hongxia Xie, Hong-Han Shuai, Wen-Huang Cheng</div>
     <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>ICME 2021</em></div>
     <div><a href="https://ieeexplore.ieee.org/document/9428120">Paper</a></div>
