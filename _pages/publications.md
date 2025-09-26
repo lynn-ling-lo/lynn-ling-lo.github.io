@@ -21,7 +21,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-1.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/ICCV2025.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">From Prompt to Progression: Taming Video Diffusion Models for Seamless Attribute Transition </h3>
@@ -35,7 +35,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-2.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/AAAI2025.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Future Sight and Tough Fights: Revolutionizing Sequential Recommendation with FERec</h3>
@@ -50,7 +50,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-3.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/CVPR2024.png.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Distraction is All You Need: Memory-Efficient Image Immunization against Diffusion-based Image Editing</h3>
@@ -64,7 +64,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-4.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/MM24.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">ReCorD: Reasoning and Correcting Diffusion for HOI Generation</h3>
@@ -78,7 +78,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-5.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/TAFFC2022.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Modeling Uncertainty for Low-Resolution Facial Expression Recognition</h3>
@@ -93,7 +93,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-5.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/TMM2022.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Facial Chirality: From Visual Self-Reflection to Robust Facial Feature Learning</h3>
@@ -107,7 +107,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-5.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/MM2022.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Mimicking the Annotation Process for Recognizing the Micro-Expresion.</h3>
@@ -121,7 +121,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-5.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/TAFFC2022.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">An Overview of Facial Micro-Expression Analysis: Data, Methodology and Challenge</h3>
@@ -133,7 +133,7 @@ author_profile: true
 ---
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-5.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/ICME2021.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Facial Chirality: Using Self-Face Reflection to Learn Discriminative Features for Facial Expression Recognition</strong></h3>
@@ -145,7 +145,7 @@ author_profile: true
 ---
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-5.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/ICCV2021.gif" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Fashionmirror: Co-Attention Feature Remapping Virtual Try-on with Sequential Template Poses</h3>
@@ -157,7 +157,7 @@ author_profile: true
 ---
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-5.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/MM2020.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">AU-Assisted Graph Attention Convolutional Network for Micro-Expression Recognition</h3>
@@ -169,7 +169,7 @@ author_profile: true
 ---
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-5.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/MIPR2020.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">MER-GCN: Micro-Expression Recognition Based on Relation Modeling with Graph Convolutional Networks</h3>
@@ -181,7 +181,7 @@ author_profile: true
 ---
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail-5.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/ICIP2019.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Dressing for Attention: Outfit-based fashion Popularity Prediction</h3>
