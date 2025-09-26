@@ -50,7 +50,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="assets/CVPR2024.png.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/CVPR2024.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Distraction is All You Need: Memory-Efficient Image Immunization against Diffusion-based Image Editing</h3>
@@ -64,7 +64,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="assets/MM24.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="assets/MM2024.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">ReCorD: Reasoning and Correcting Diffusion for HOI Generation</h3>
