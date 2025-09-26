@@ -138,7 +138,7 @@ author_profile: true
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Facial Chirality: Using Self-Face Reflection to Learn Discriminative Features for Facial Expression Recognition</strong></h3>
     <div style="margin-bottom: 6px;"><strong>Ling Lo</strong>, Hongxia Xie, Hong-Han Shuai, Wen-Huang Cheng</div>
-    <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>ICME 2021 </em></div>
+    <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>ICME 2021  🏆<strong>Best Paper Award</strong></em></div>
     <div><a href="https://ieeexplore.ieee.org/document/9428120">Paper</a></div>
   </div>
 </div>
