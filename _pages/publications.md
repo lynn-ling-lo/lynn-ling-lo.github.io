@@ -126,7 +126,7 @@ author_profile: true
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">An Overview of Facial Micro-Expression Analysis: Data, Methodology and Challenge</h3>
     <div style="margin-bottom: 6px;">Hongxia Xie,<strong>Ling Lo</strong>, Hong-Han Shuai, Wen-Huang Cheng</div>
-    <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>TAC 2022</em></div>
+    <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>TAFFC 2022</em></div>
     <div><a href="https://ieeexplore.ieee.org/document/9684697">Paper</a></div>
   </div>
 </div>
