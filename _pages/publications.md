@@ -21,7 +21,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="../images/publication_images/ICCV2025.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="../images/publication_images/ICCV2025.png" alt="Paper Thumbnail" style="width: 150px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">From Prompt to Progression: Taming Video Diffusion Models for Seamless Attribute Transition </h3>
@@ -35,7 +35,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="../images/publication_images/AAAI2025.png" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="../images/publication_images/AAAI2025.png" alt="Paper Thumbnail" style="width: 150px;  border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Future Sight and Tough Fights: Revolutionizing Sequential Recommendation with FERec</h3>
