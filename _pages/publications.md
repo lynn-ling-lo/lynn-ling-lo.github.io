@@ -54,9 +54,8 @@ author_profile: true
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">Distraction is All You Need: Memory-Efficient Image Immunization against Diffusion-based Image Editing</h3>
-    <div style="margin-bottom: 6px;">🌟<strong>Highlight</strong></div>
     <div style="margin-bottom: 6px;"><strong>Ling Lo</strong>, ChengYu Yao, Hong-Han Shaui, Wen-Huang Cheng</div>
-    <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>CVPR2024</em></div>
+    <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>CVPR2024 🌟<strong>Highlight</strong></em></div>
     <div><a href="[link-to-pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Lo_Distraction_is_All_You_Need_Memory-Efficient_Image_Immunization_against_Diffusion-Based_CVPR_2024_paper.pdf)">Paper</a> | <a href="https://github.com/lynn-ling-lo/DAYN">Code</a></div>
   </div>
 </div>
