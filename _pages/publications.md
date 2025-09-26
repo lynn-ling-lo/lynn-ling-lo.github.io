@@ -92,33 +92,4 @@ author_profile: true
   </div>
 </div>
 
----
 
-## Template Instructions
-
-**How to use this template:**
-
-1. **Replace paper details**: Update titles, authors, venues with your actual publications
-2. **Add thumbnails**: Replace `paper-thumbnail-X.jpg` with your actual paper images (150x112px recommended)
-3. **Update links**: Replace all `link-to-*` placeholders with actual URLs
-4. **Add awards**: Use emojis and bold text for awards:
-   - 🏆 **Best Paper Award**
-   - 🎤 **Oral Presentation** 
-   - 🌟 **Outstanding Paper**
-   - 📝 **Spotlight**
-5. **Bold your name**: Use `**Your Name**` to highlight your authorship
-
-**Paper Template Structure:**
-```html
-<div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
-  <div style="flex-shrink: 0;">
-    <img src="paper-thumbnail.jpg" alt="Paper Thumbnail" style="width: 150px; height: 112px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
-  </div>
-  <div style="flex: 1;">
-    <h3 style="margin-top: 0; margin-bottom: 8px;">Paper Title Here</h3>
-    <div style="margin-bottom: 6px;">Author List with <strong>Your Name</strong> in bold</div>
-    <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>Venue Year</em></div>
-    <div><a href="link">PDF</a> | <a href="link">Code</a> | <a href="link">Project</a></div>
-  </div>
-</div>
-```
