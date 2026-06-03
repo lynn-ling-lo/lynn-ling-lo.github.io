@@ -13,7 +13,7 @@ I received my Ph.D. from National Yang Ming Chiao Tung University, Taiwan, where
 
 My research focuses on developing controllable and trustworthy visual AI systems that can understand, generate, and interact with the world. I am particularly interested in generative visual models, multimodal learning and understanding, and AI safety, with current research spanning image and video generation, multimodal visual alignment, image immunization, and content authentication. My goal is to build next-generation visual models that are not only powerful and creative but also reliable, interpretable, and aligned with human intentions.
 
-<font color="red">**I will join the Department of Computer Science at National Tsing Hua University (NTHU) as an Assistant Professor in August 2026!** <font>
+<font color="red">**I will join the Department of Computer Science at National Tsing Hua University (NTHU) as an Assistant Professor in August 2026!**<font>
 
 I am actively looking for motivated students and researchers interested in computer vision, multimedia, and generative AI. Prospective Ph.D. students, undergraduate researchers, and research assistants are welcome to reach out if they are interested in working with me or exploring potential research opportunities. 
 **Please note that M.S. positions for Fall 2027 are currently full.**
