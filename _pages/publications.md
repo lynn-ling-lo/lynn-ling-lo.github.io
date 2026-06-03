@@ -21,7 +21,7 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
-    <img src="../images/publication_images/CVPR2026.pdf" alt="Paper Thumbnail" style="width: 250px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+    <img src="../images/publication_images/CVPR2026.png" alt="Paper Thumbnail" style="width: 250px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
     <h3 style="margin-top: 0; margin-bottom: 8px;">TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection </h3>
