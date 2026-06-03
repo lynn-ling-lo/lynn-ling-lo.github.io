@@ -21,6 +21,21 @@ author_profile: true
 
 <div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
   <div style="flex-shrink: 0;">
+    <img src="../images/publication_images/CVPR2026.pdf" alt="Paper Thumbnail" style="width: 250px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 8px;">TriDF: Evaluating Perception, Detection, and Hallucination for Interpretable DeepFake Detection </h3>
+    <div style="margin-bottom: 6px;">Jian-Yu Jiang Lin, Kang-Yang Huang, Ling Zou, <strong>Ling Lo</strong>, Sheng-Ping Yang, Yu-Wen Tseng, Kun-Hsiang Lin, Chia-Ling Chen, Yu-Ting Ta, Yan-Tsung Wang, Po-Ching Chen, Hongzia Xie, Hong-Han Shuai, Wen-Huang Cheng</div>
+    <div style="font-style: italic; color: #666; margin-bottom: 10px;"><em>CVPR 2026</em></div>
+    <div><a href="https://arxiv.org/abs/2512.10652">Paper</a> | <a href="https://j1anglin.github.io/TriDF/">Project Page</a></div>
+  </div>
+</div>
+
+---
+
+
+<div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
     <img src="../images/publication_images/ICCV2025.png" alt="Paper Thumbnail" style="width: 250px; border: 1px solid #ddd; border-radius: 6px; object-fit: cover;">
   </div>
   <div style="flex: 1;">
