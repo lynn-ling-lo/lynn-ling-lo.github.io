@@ -19,7 +19,7 @@ Prospective Ph.D. students, undergraduate researchers, and research assistants a
 
 📬: [linglo.lynn@gmail.com](linglo.lynn@gmail.com)
 
-**Please note that M.S. positions for Fall 2027 are currently full.**
+**Please note that M.S. positions for Fall 2026 are currently full.**
 
 
 
