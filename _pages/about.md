@@ -17,7 +17,7 @@ My research focuses on developing controllable and trustworthy visual AI systems
 📢 I am actively looking for motivated students and researchers interested in computer vision, multimedia, and generative AI. 
 Prospective Ph.D. students, undergraduate researchers, and research assistants are welcome to reach out if they are interested in working with me or exploring potential research opportunities. If you have exciting research ideas, potential collaboration opportunities, or would simply like to connect, please also feel free to get in touch :))
 
-📬: [linglo.lynn@gmail.com](linglo.lynn@gmail.com)
+📬: [linglo@cs.nthu.edu.tw](linglo@cs.nthu.edu.tw)
 
 **Please note that M.S. positions for Fall 2026 are currently full.**
 
